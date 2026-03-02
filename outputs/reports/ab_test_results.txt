@@ -1,0 +1,3 @@
+CR Treatment: 0.7430, CR Control: 0.7920
+t-stat: -1.1662, p-value: 0.2437
+Lift (%): -6.19
